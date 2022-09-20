@@ -9,5 +9,9 @@ public class Diziler {
 		for(int i=0;i<ogr.length;i++) {
 			System.out.println(ogr[i]);
 		}
+		
+		for(String ogrenciler:ogr) {
+			System.out.println("Öğrenci: "+ ogrenciler);
+		}
 	}
 }
