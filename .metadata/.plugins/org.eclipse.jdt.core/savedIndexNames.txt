@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\eclipse-jee-2022-06-R-win32-x86_64\eclipse-workspace\Java2022Camp\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3959364079.index
+178905163.index
